@@ -23,5 +23,5 @@ Players can restart the match using the Reset Game or New Game buttons.
 This project is perfect for beginners to practice DOM manipulation, event handling, arrays, loops, conditional statements, and game logic in JavaScript while building a fun and engaging application.
 
 
-##Live Demo
+## Live Demo
 https://amarsahu21724-max.github.io/Tic-Tac-Toe-Game/
